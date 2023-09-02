@@ -12,7 +12,7 @@
 // You should have received a copy of the GNU General Public License
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-import "@openzeppelin/interfaces/IERC20.sol";
+import "@openzeppelin/contracts/interfaces/IERC20.sol";
 
 import "canonical-weth/interfaces/IWETH.sol";
 import "./IAsset.sol";

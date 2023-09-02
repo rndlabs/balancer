@@ -14,7 +14,7 @@
 
 pragma solidity >=0.8.0 <0.9.0;
 
-import "@openzeppelin/interfaces/IERC20.sol";
+import "@openzeppelin/contracts/interfaces/IERC20.sol";
 
 import "../../vault/interfaces/IAsset.sol";
 import "canonical-weth/interfaces/IWETH.sol";

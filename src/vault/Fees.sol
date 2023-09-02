@@ -16,7 +16,7 @@ pragma solidity >=0.8.0 <0.9.0;
 
 import "../lib/math/FixedPoint.sol";
 import "../lib/helpers/BalancerErrors.sol";
-import "@openzeppelin/interfaces/IERC20.sol";
+import "@openzeppelin/contracts/interfaces/IERC20.sol";
 import "../lib/openzeppelin/ReentrancyGuard.sol";
 import "../lib/openzeppelin/SafeERC20.sol";
 

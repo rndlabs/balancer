@@ -16,7 +16,7 @@ pragma solidity >=0.8.0 <0.9.0;
 
 import "../../lib/helpers/BalancerErrors.sol";
 import "../../lib/openzeppelin/EnumerableSet.sol";
-import "@openzeppelin/interfaces/IERC20.sol";
+import "@openzeppelin/contracts/interfaces/IERC20.sol";
 
 import "./BalanceAllocation.sol";
 import "../PoolRegistry.sol";

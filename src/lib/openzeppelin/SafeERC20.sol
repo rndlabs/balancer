@@ -4,7 +4,7 @@ pragma solidity >=0.8.0 <0.9.0;
 
 import "../helpers/BalancerErrors.sol";
 
-import "@openzeppelin/interfaces/IERC20.sol";
+import "@openzeppelin/contracts/interfaces/IERC20.sol";
 
 /**
  * @title SafeERC20

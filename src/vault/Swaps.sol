@@ -19,7 +19,7 @@ import "../lib/helpers/BalancerErrors.sol";
 import "../lib/helpers/InputHelpers.sol";
 import "../lib/openzeppelin/EnumerableMap.sol";
 import "../lib/openzeppelin/EnumerableSet.sol";
-import "@openzeppelin/interfaces/IERC20.sol";
+import "@openzeppelin/contracts/interfaces/IERC20.sol";
 import "../lib/openzeppelin/ReentrancyGuard.sol";
 import "../lib/openzeppelin/SafeCast.sol";
 import "../lib/openzeppelin/SafeERC20.sol";
